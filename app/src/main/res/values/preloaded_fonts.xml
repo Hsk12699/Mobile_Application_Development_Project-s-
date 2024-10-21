@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/montaga</item>
+        <item>@font/rem</item>
+        <item>@font/rem_bold</item>
+        <item>@font/rem_extrabold</item>
+        <item>@font/rem_extralight</item>
+        <item>@font/rem_light</item>
+        <item>@font/rem_thin</item>
+        <item>@font/spectral_italic</item>
+    </array>
+</resources>

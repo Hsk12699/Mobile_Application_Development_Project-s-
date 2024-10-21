@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate
+        android:duration="3000"
+        android:fromXDelta="100%"
+        android:toXDelta="0%" />
+
+    <pathInterpolator
+        android:controlX1="0.25"
+        android:controlY1="0.5"
+        android:controlX2="0.25"
+        android:controlY2="1"/>
+</set>

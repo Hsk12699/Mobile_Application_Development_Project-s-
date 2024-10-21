@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "389364185490",
+    "project_id": "florascan-13dc5",
+    "storage_bucket": "florascan-13dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389364185490:android:517773a73051e6fe16e94b",
+        "android_client_info": {
+          "package_name": "com.example.florascan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389364185490-dg1oiqtf5n0as88ock93421frtmg57o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.florascan",
+            "certificate_hash": "a606b731d72314c830ae556ff5d2e87227c598d9"
+          }
+        },
+        {
+          "client_id": "389364185490-f4imhle77cemedebrq2ldeuce13bicp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4vHGbySg-agk9P5lSAoT3YirBAmzSJnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389364185490-f4imhle77cemedebrq2ldeuce13bicp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
